@@ -1,10 +1,10 @@
 # nxf-starsolo
 
 #### 介绍
-Nextflow wrapper of STARsolo for batch process.
+该工具是用于批处理 STARsolo 任务的 nextflow 封装器。
 
 #### 软件架构
-主要用于nextflow run命令，目前不支持从gitee仓库拉取，所以需要和github仓库同步。
+主要用于`nextflow run`命令，目前不支持从gitee仓库拉取，所以需要和github仓库同步。
 
 
 #### 安装教程
